@@ -8,7 +8,7 @@ Aún así, me gusto mucho aprender a desarrollar videojuegos, así que me alegro mu
 
 No tengo fotos mías, así que dejo una del animal al que más me parezco: la cabra damasco :smiling_face_with_three_hearts:
 
-![yo](./assets/yo.png)
+![yo](./assets/yo.jpg)
 
 ### Mis cosas favoritas:
 * Juegos: OneShot, Dark Souls II, The Stanley Parable
